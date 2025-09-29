@@ -1,3 +1,6 @@
+# Nuxt.js ToDoアプリ
+**Nuxt.js + Firesore + Tailwind CSS** を使用して **ToDoアプリ** を開発。
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
